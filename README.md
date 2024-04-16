@@ -25,7 +25,7 @@ __All Animation Names:__
   
 ```
 2.[<Static>] - removes text animation
-3.<Speed number> - change text speed
+3.<Speed 0.02> - change text speed
 4.<y> - change text color to yellow
 5.<b> - change text color to blue
 6.<c> - change text color to cyan
