@@ -18,7 +18,7 @@ All Animation Names:
 > + 3.OpacityIn
 > * 4.StrengthJumpIn
 ```
-+ 2..<Static>. - removes text animation
++ 2.[<Static>] - removes text animation
 + 3..<Speed number>. - change text speed
 + 4..<y>. - change text color to yellow
 + 5..<b>. - change text color to blue
