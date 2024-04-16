@@ -2,6 +2,13 @@
 
 The ***Two Sided Dialogue System*** is a dialog system controlled by text scripts through data tables.
 
+
+# ***How To Add New Dialogue***
+1.Create a Data Table, And Select `DataTableRowStruct`
+
+
+
+
 ## The structure of the Dialogues
 ![DialogueFullStructureImage](https://i.imgur.com/Ni1QbZG.png)
   + 1.Dialogue Speaker - The initiator of the dialogue, the speaker
@@ -21,8 +28,10 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
   + >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
 
-
 ![AddNewArgumentsImage](https://i.imgur.com/8iMsYGx.png)
+
+
+
 
 # Answers Structure
 ![AnswersStructureImage](https://i.imgur.com/0YicVht.png)
@@ -33,6 +42,8 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + 5.Play if selected - plays sound if current answer selected
   + 6.Play Dialogue if Selected - Plays the specified dialog when this answer is selected
   
+
+
 
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
@@ -62,7 +73,4 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 <p>
 
 ## `You can add and change additional parameters in the "DialogueTextStyle" file
-
-# ***How To Add New Dialogue***
-1.Create a Data Table, And Select `DataTableRowStruct`
 
