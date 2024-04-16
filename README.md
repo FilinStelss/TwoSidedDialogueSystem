@@ -10,8 +10,8 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
 + 5.Jump to - "jumps" to the specified line of the dialog
 + 6.TimeBeforeArguments - time to execute arguments
 + 7.Arguments - executing various commands
-+ __the full list of arguments__
-+ >[Event]EventName - Executes an event with the specified name
+  __the full list of arguments__
+  >[Event]EventName - Executes an event with the specified name
   >[End] - Ends the dialogue
   >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
   >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
