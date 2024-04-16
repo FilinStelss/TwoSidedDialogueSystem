@@ -22,4 +22,4 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 11.<r> change text color to red
 12.<Default> and <def> change text to default style
 ```
-## `You can add and change additional parameters in the *** DialogueTextStyle *** file`
+## `You can add and change additional parameters in the ___DialogueTextStyle___ file`
