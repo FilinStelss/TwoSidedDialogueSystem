@@ -25,7 +25,7 @@ All Animation Names:
 + 6.<c> change text color to cyan
 * 7.<g> change text color to green
 + 8.<o> change text color to orange
-+9.<p> change text color to pink
++ 9.<p> change text color to pink
 + 10.<v> change text color to purple
 * 11.<r> change text color to red
 + 12.<Default> and <def> change text to default style
