@@ -3,6 +3,7 @@
 The **Two Sided Dialogue System** is a dialog system controlled by text scripts through data tables.
 
 ## The structure of the Dialogues
+![DialogueFullStructureImage](https://i.imgur.com/0YicVht.png)
   + 1.Dialogue Speaker - The initiator of the dialogue, the speaker
   + 2.Dialogue Text - The text of the dialog box where you can change it using modifiers (see the paragraph below)
   + 3.Delay to delete - The time until the dialog is deleted.` If the value is less than zero, the dialog will not be deleted until the [End] command is issued`
@@ -21,7 +22,7 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
   + >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
 
 # Answers Structure
-![](https://i.imgur.com/0YicVht.png)
+![AnswersStructureImage](https://i.imgur.com/0YicVht.png)
   + 1.Answer Text - Answer text
   + 2.Has exit icon - add or remove exit icon at the end of the response
   + 3.Arguments if selected - executing various commands if current answer has been selected
