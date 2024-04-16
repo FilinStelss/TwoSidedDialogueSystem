@@ -4,7 +4,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
 
 
 # ***How To Add New Dialogue***
-+ 1.Create a Data Table, And Select `DataTableRowStruct`
++ 1.Create a Data Table, And Select `DialogueSystemStructure`
 + ![DialogueCreateRow](https://i.imgur.com/vzQGzqE.png)
 + 2.Press On "Add" button and Customize your **Dialogue**
 
