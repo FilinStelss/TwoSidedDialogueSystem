@@ -32,7 +32,7 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
 ```
-1.<A.AnimationName*> - Add text animation
+1.<A.AnimationName*¹> - Add text animation
 2.[<Static>] - removes text animation
 3.<Speed 0.02> - change text speed
 4.<y> - change text color to yellow
@@ -48,7 +48,7 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 
 <p>
 
-*__All Animation Names:__`(for the first point)`
+*¹__All Animation Names:__`(for the first point)`
 > + 1.JumpIn
 > * 2.ScaleIn
 > + 3.OpacityIn
