@@ -61,7 +61,8 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 
 <p>
 
-## `You can add and change additional parameters in the "DialogueTextStyle" file`
+## `You can add and change additional parameters in the "DialogueTextStyle" file
 
 # ***How To Add New Dialogue***
+1.Create a Data Table, And Select `DataTableRowStruct`
 
