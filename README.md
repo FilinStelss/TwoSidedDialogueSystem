@@ -2,7 +2,7 @@
 
 The **Two Sided Dialogue System** is a dialog system controlled by text scripts through data tables.
 
-# The structure of the Dialogues
+## The structure of the Dialogues
 + 1.Dialogue Speaker - The initiator of the dialogue, the speaker
 + 2.Dialogue Text - The text of the dialog box where you can change it using modifiers (see the paragraph below)
 + 3.Delay to delete - The time until the dialog is deleted.` If the value is less than zero, the dialog will not be deleted until the [End] command is issued`
