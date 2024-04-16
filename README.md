@@ -17,7 +17,9 @@ All Animation Names:
 > + 3.OpacityIn
 > * 4.StrengthJumpIn
 ```
+
 <p>
+  
 ```
 + 2.[<Static>] - removes text animation
 + 3..<Speed number>. - change text speed
