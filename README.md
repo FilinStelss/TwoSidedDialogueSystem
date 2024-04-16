@@ -3,9 +3,9 @@
 The **Two Sided Dialogue System** is a dialog system controlled by text scripts through data tables.
 
 # The structure of the Dialogues
-1.Dialogue Speaker - The initiator of the dialogue, the speaker
-2.Dialogue Text - The text of the dialog box where you can change it using modifiers (see the paragraph below)
-3.Delay to delete - The time until the dialog is deleted.` If the value is less than zero, the dialog will not be deleted until the [End] command is issued`
++ 1.Dialogue Speaker - The initiator of the dialogue, the speaker
+* 2.Dialogue Text - The text of the dialog box where you can change it using modifiers (see the paragraph below)
++ 3.Delay to delete - The time until the dialog is deleted.` If the value is less than zero, the dialog will not be deleted until the [End] command is issued`
 
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
@@ -13,10 +13,10 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 1.<A.AnimationName> - Add text animation
 ```
 >All Animation Names:
->> 1.JumpIn
->>> 2.ScaleIn
->>>> 3.OpacityIn
->>>>> 4.StrengthJumpIn
++ >> 1.JumpIn
+* 2.ScaleIn
++ 3.OpacityIn
+* 4.StrengthJumpIn
 ```
 
 2.<Static> - removes text animation
