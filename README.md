@@ -9,12 +9,12 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
   + 4.Delay to next - Time before adding a new dialog
   + 5.Jump to - "jumps" to the specified line of the dialog
   + 6.TimeBeforeArguments - time to execute arguments
-  + 7.Arguments - executing various commands
+  + 7.Arguments*¹ - executing various commands
   + 8.Answers - Adds answers to the question and an exit icon from the dialog `(if bool in map == true)`\
   + 9.Play Sound - Plays the sound at the very beginning of the dialog line
   + 10.LaunchNewDialogue - launches a data table with another dialog after the line of this dialog
 
-#### __the full list of arguments__
+#### *¹__the full list of arguments__
   + >[Event]EventName - Executes an event with the specified name
   + >[End] - Ends the dialogue
   + >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
@@ -32,7 +32,7 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
 ```
-1.<A.AnimationName*¹> - Add text animation
+1.<A.AnimationName*²> - Add text animation
 2.[<Static>] - removes text animation
 3.<Speed 0.02> - change text speed
 4.<y> - change text color to yellow
@@ -48,7 +48,7 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 
 <p>
 
-*¹__All Animation Names:__`(for the first point)`
+*²__All Animation Names:__`(for the first point)`
 > + 1.JumpIn
 > * 2.ScaleIn
 > + 3.OpacityIn
