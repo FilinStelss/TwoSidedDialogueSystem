@@ -21,7 +21,7 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
   + >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
 
 # Answers Structure
-![](https://i.pinimg.com/originals/83/f1/ee/83f1eeebe5c2be249acaf94de8fac3c9.jpg)
+![](https://i.pinimg.com/originals/83/f1/ee/83f1eeebe5c2be249acaf94de8fac3c9.jpg](https://i.imgur.com/0YicVht.png)
   + 1.Answer Text - Answer text
   + 2.Has exit icon - add or remove exit icon at the end of the response
   + 3.Arguments if selected - executing various commands if current answer has been selected
