@@ -33,19 +33,6 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
 ```
 1.<A.AnimationName> - Add text animation
-```
-
-<p>
-
-__All Animation Names:__
-> + 1.JumpIn
-> * 2.ScaleIn
-> + 3.OpacityIn
-> * 4.StrengthJumpIn
-
-<p>
-  
-```
 2.[<Static>] - removes text animation
 3.<Speed 0.02> - change text speed
 4.<y> - change text color to yellow
@@ -58,6 +45,16 @@ __All Animation Names:__
 11.<r> - change text color to red
 12.<Default> - and <def> change text to default style
 ```
+
+<p>
+
+__All Animation Names:__
+> + 1.JumpIn
+> * 2.ScaleIn
+> + 3.OpacityIn
+> * 4.StrengthJumpIn
+
+<p>
 
 ## `You can add and change additional parameters in the "DialogueTextStyle" file`
 
