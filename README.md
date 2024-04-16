@@ -15,10 +15,10 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
 + 10.LaunchNewDialogue - launches a data table with another dialog after the line of this dialog
 
 ### __the full list of arguments__
-  >[Event]EventName - Executes an event with the specified name
-  >[End] - Ends the dialogue
-  >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
-  >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
+  + >[Event]EventName - Executes an event with the specified name
+  + >[End] - Ends the dialogue
+  + >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
+  + >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
 
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
