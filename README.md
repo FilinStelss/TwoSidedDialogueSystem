@@ -11,7 +11,7 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
   + 5.Jump to - "jumps" to the specified line of the dialog
   + 6.TimeBeforeArguments - time to execute arguments
   + 7.Arguments*¹ - executing various commands
-  + 8.Answers - Adds answers to the question and an exit icon from the dialog `(if bool in map == true)`\
+  + 8.Answers - Adds answers to the question and an exit icon from the dialog `(if bool in map == true)`
   + 9.Play Sound - Plays the sound at the very beginning of the dialog line
   + 10.LaunchNewDialogue - launches a data table with another dialog after the line of this dialog
 
