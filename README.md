@@ -13,10 +13,10 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 1.<A.AnimationName> - Add text animation
 ```
 >All Animation Names:
-+ >> 1.JumpIn
-* 2.ScaleIn
-+ 3.OpacityIn
-* 4.StrengthJumpIn
+>> + 1.JumpIn
+>> * 2.ScaleIn
+>> + 3.OpacityIn
+>> * 4.StrengthJumpIn
 ```
 
 2.<Static> - removes text animation
