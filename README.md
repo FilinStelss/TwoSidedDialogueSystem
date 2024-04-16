@@ -2,6 +2,8 @@
 
 The **Two Sided Dialogue System** is a dialog system controlled by text scripts through data tables.
 
+# The structure of the Dialogues
+
 
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
@@ -29,4 +31,3 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 ```
 ## `You can add and change additional parameters in the "DialogueTextStyle" file`
 
-# The structure of the Dialogues
