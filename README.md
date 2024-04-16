@@ -25,7 +25,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
 ![AnswersStructureImage](https://i.imgur.com/0YicVht.png)
   + 1.Answer Text - Answer text
   + 2.Has exit icon - add or remove exit icon at the end of the response
-  + 3.Arguments if selected - executing various commands if current answer has been selected
+  + 3.Arguments if selected - executing various commands if current answer has been selected`(You Can Add New Arguments in Dialogue Widget)`
   + 4.IfDialogueIsNotValidatedJumpTo {Row Name} - If the dialog data table is not specified when selecting an answer, the system tries to jump to another line of the dialog
   + 5.Play if selected - plays sound if current answer selected
   + 6.Play Dialogue if Selected - Plays the specified dialog when this answer is selected
