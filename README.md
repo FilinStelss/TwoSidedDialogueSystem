@@ -9,7 +9,7 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
 
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
-```
+
 1.<A.AnimationName> - Add text animation
 #  
 All Animation Names:
@@ -30,6 +30,6 @@ All Animation Names:
 10.<v> change text color to purple
 11.<r> change text color to red
 12.<Default> and <def> change text to default style
-```
+
 ## `You can add and change additional parameters in the "DialogueTextStyle" file`
 
