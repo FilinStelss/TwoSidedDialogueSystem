@@ -20,6 +20,8 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + >[End] - Ends the dialogue
   + >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
   + >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
+
+
 ![AddNewArgumentsImage](https://i.imgur.com/8iMsYGx.png)
 
 # Answers Structure
