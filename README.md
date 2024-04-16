@@ -21,7 +21,12 @@ The **Two Sided Dialogue System** is a dialog system controlled by text scripts 
   + >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
 
 # Answers Structure
-
+  + 1.Answer Text - Answer text
+  + 2.Has exit icon - add or remove exit icon at the end of the response
+  + 3.Arguments if selected - executing various commands if current answer has been selected
+  + 4.IfDialogueIsNotValidatedJumpTo {Row Name} - If the dialog data table is not specified when selecting an answer, the system tries to jump to another line of the dialog
+  + 5.Play if selected - plays sound if current answer selected
+  + 6.Play Dialogue if Selected - Plays the specified dialog when this answer is selected
   
 
 # Text Modifers
