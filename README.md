@@ -54,7 +54,7 @@ You can create a new dialog line instead of the previous one, regardless of the 
 
 
 # Answers Structure📗
-![AnswersStructureImage](https://i.imgur.com/0YicVht.png)
+![AnswersStructureImage](https://i.imgur.com/9EX11dh.png)
   + 1.Answer Text - Answer text
   + 2.Has exit icon - add or remove exit icon at the end of the response
   + 3.Arguments if selected - executing various commands if current answer has been selected`(You Can Add New Arguments in Dialogue Widget)`
