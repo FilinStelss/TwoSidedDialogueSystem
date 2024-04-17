@@ -43,6 +43,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text throug
 
 # ***The logic of the dialogue on one line***⚙️
 The dialog string is ***determined by the name of the initiator of the dialog***, that is, if two consecutive dialogs have the same initiator name, the system will record a new dialog string instead of the previous one.
+![SpeakersImage](https://i.imgur.com/W1107uh.png)
 
 <br/>
 <br/>
@@ -90,4 +91,6 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 <p>
 
 ## You can add and change additional parameters in the "DialogueTextStyle" file
+
+# Events Logic
 
