@@ -29,6 +29,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text throug
 > + [End] - Ends the dialogue
 > + [RemoveDialogueForName]RowName - deletes a line of the dialog by row name
 > + [JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
+> + [JumpTo]RowName - "jumps" to the specified line of the dialog
 
 ![AddNewArgumentsImage](https://i.imgur.com/8iMsYGx.png)
 
