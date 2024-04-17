@@ -10,7 +10,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
 
 
 
-## The structure of the Dialogues
+## The structure of the Dialogues📚
 ![DialogueFullStructureImage](https://i.imgur.com/Ni1QbZG.png)
   + 1.Dialogue Speaker - The initiator of the dialogue, the speaker
   + 2.Dialogue Text - The text of the dialog box where you can change it using modifiers (see the paragraph below)
@@ -23,7 +23,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + 9.Play Sound - Plays the sound at the very beginning of the dialog line
   + 10.LaunchNewDialogue - launches a data table with another dialog after the line of this dialog
 
-#### *¹ ***The full list of arguments***
+#### *¹ ***The full list of arguments***👄
   + >[Event]EventName - Executes an event with the specified name
   + >[End] - Ends the dialogue
   + >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
@@ -34,7 +34,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
 
 
 
-# Answers Structure
+# Answers Structure📗
 ![AnswersStructureImage](https://i.imgur.com/0YicVht.png)
   + 1.Answer Text - Answer text
   + 2.Has exit icon - add or remove exit icon at the end of the response
@@ -46,7 +46,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
 
 
 
-# Text Modifers
+# Text Modifers⚙️
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
 ```
 1.<A.AnimationName²> - Add text animation
