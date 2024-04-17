@@ -67,11 +67,11 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 
 *²__All Animation Names:__`(for the first point)`
 > + 1.JumpIn
-> * 2.ScaleIn
+> + 2.ScaleIn
 > + 3.OpacityIn
-> * 4.StrengthJumpIn
+> + 4.StrengthJumpIn
 
 <p>
 
-## `You can add and change additional parameters in the "DialogueTextStyle" file
+## You can add and change additional parameters in the "DialogueTextStyle" file
 
