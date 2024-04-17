@@ -1,4 +1,4 @@
-# ***TwoSidedDialogueSystem***📖
+<h1 align="center">Two Sided Dialogue System
 
 The ***Two Sided Dialogue System*** is a dialog system controlled by text through data tables.
 
