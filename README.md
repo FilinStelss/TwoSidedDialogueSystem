@@ -46,8 +46,6 @@ The dialog string is ***determined by the name of the initiator of the dialog***
 <br/>
 
 ![SpeakersImage](https://i.imgur.com/W1107uh.png)
-
-<br/>
 You can create a new dialog line instead of the previous one, regardless of the initiator, using the command "[JumpToLine]RowName".
 
 <br/>
