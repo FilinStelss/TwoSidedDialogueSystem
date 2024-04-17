@@ -24,10 +24,11 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + 10.LaunchNewDialogue - launches a data table with another dialog after the line of this dialog
 
 ### *¹ ***The full list of arguments***⚙️👄
-  + >[Event]EventName - Executes an event with the specified name
-  + >[End] - Ends the dialogue
-  + >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
-  + >[JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
+
+> + [Event]EventName - Executes an event with the specified name
+> + [End] - Ends the dialogue
+> + [RemoveDialogueForName]RowName - deletes a line of the dialog by row name
+> + [JumpToLine]RowName - Insert the dialog line in the place specified regardless of the initiator
 
 ![AddNewArgumentsImage](https://i.imgur.com/8iMsYGx.png)
 
