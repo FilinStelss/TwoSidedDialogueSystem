@@ -65,7 +65,7 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 
 <p>
 
-*²__All Animation Names:__`(for the first point)`
+*² ***All Animation Names:*** `(for the first point)`
 > + 1.JumpIn
 > + 2.ScaleIn
 > + 3.OpacityIn
