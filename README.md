@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Two+Sided+Dialogue+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F722&random=true&width=435&lines=Two+Sided+Dialogue+System)](https://git.io/typing-svg)
 
 The ***Two Sided Dialogue System*** is a dialog system controlled by text through data tables.
 
