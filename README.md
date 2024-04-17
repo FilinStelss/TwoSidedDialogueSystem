@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Two+Sided+Dialogue+System)](https://git.io/typing-svg)
 
 The ***Two Sided Dialogue System*** is a dialog system controlled by text through data tables.
-              
-- name: generate-snake-game-from-github-contribution-grid
-uses: Platane/snk@v3.2.0
-
          
 <br/>
 <br/>
