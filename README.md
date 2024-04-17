@@ -3,7 +3,7 @@
 The ***Two Sided Dialogue System*** is a dialog system controlled by text scripts through data tables.
 
 
-# ***How To Add New Dialogue***
+# ***How To Add New Dialogue***🤖
 + 1.Create a Data Table, And Select `DialogueSystemStructure`
 + ![DialogueCreateRow](https://i.imgur.com/vzQGzqE.png)
 + 2.Press On "Add" button and Customize your **Dialogue**
@@ -18,7 +18,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + 4.Delay to next - Time before adding a new line of dialogue 
   + 5.Jump to - "jumps" to the specified line of the dialog
   + 6.TimeBeforeArguments - time to execute arguments
-  + 7.Arguments*¹ - executing various commands
+  + 7.Arguments¹ - executing various commands
   + 8.Answers - Adds answers to the question and an exit icon from the dialog `(if bool in map == true)`
   + 9.Play Sound - Plays the sound at the very beginning of the dialog line
   + 10.LaunchNewDialogue - launches a data table with another dialog after the line of this dialog
@@ -49,7 +49,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
 # Text Modifers
 The Two Sided Dialogue System has a large number of options for changing text. Here are all of them:
 ```
-1.<A.AnimationName*²> - Add text animation
+1.<A.AnimationName²> - Add text animation
 2.[<Static>] - removes text animation
 3.<Speed 0.02> - change text speed
 4.<y> - change text color to yellow
