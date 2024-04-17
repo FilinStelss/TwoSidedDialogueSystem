@@ -34,6 +34,8 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text throug
 ![AddNewArgumentsImage](https://i.imgur.com/8iMsYGx.png)
 
 
+##The logic of the dialogue on one line
+
 
 
 # Answers Structure📗
