@@ -43,7 +43,10 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text throug
 
 # ***The logic of the dialogue on one line***⚙️
 The dialog string is ***determined by the name of the initiator of the dialog***, that is, if two consecutive dialogs have the same initiator name, the system will record a new dialog string instead of the previous one.
-![SpeakersImage](https://i.imgur.com/W1107uh.png)
+<br/>
+![SpeakersImage](https://i.imgur.com/W1107uh.png)\
+<br/>
+You can create a new dialog line instead of the previous one, regardless of the initiator, using the command "[JumpToLine]RowName".
 
 <br/>
 <br/>
