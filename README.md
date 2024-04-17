@@ -23,7 +23,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + 9.Play Sound - Plays the sound at the very beginning of the dialog line
   + 10.LaunchNewDialogue - launches a data table with another dialog after the line of this dialog
 
-#### *¹__the full list of arguments__
+#### *¹ ***The full list of argument***
   + >[Event]EventName - Executes an event with the specified name
   + >[End] - Ends the dialogue
   + >[RemoveDialogueForName]RowName - deletes a line of the dialog by row name
