@@ -2,8 +2,6 @@
 
 The ***Two Sided Dialogue System*** is a dialog system controlled by text through data tables.
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <br/>
 <br/>
 
