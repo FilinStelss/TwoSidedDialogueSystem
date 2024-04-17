@@ -2,7 +2,7 @@
 
 The ***Two Sided Dialogue System*** is a dialog system controlled by text through data tables.
 
-![DialogueCreateRow](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![DialogueCreateRow](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 <br/>
