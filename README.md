@@ -16,7 +16,7 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text script
   + 2.Dialogue Text - The text of the dialog box where you can change it using modifiers (see the paragraph below)
   + 3.Delay to delete - The time until the dialog is deleted.` If the value is less than zero, the dialog will not be deleted until the [End] command is issued`
   + 4.Delay to next - Time before adding a new line of dialogue 
-  + 5.Jump to - "jumps" to the specified line of the dialog
+  + 5.Jump to RowName - "jumps" to the specified line of the dialog
   + 6.TimeBeforeArguments - time to execute arguments
   + 7.Arguments¹ - executing various commands
   + 8.Answers - Adds answers to the question and an exit icon from the dialog `(if bool in map == true)`
