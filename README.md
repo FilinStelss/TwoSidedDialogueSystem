@@ -33,10 +33,13 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text throug
 
 ![AddNewArgumentsImage](https://i.imgur.com/8iMsYGx.png)
 
+<p>
 
-# ***The logic of the dialogue on one line***
+  
+</p>
+
+# ***The logic of the dialogue on one line***⚙️
 The dialog string is **determined by the name of the initiator of the dialog**, that is, if two consecutive dialogs have the same initiator name, the system will record a new dialog string instead of the previous one.
-
 
 
 # Answers Structure📗
