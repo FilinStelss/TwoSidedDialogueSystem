@@ -8,7 +8,8 @@ The ***Two Sided Dialogue System*** is a dialog system controlled by text throug
 + ![DialogueCreateRow](https://i.imgur.com/vzQGzqE.png)
 + 2.Press On "Add" button and Customize your **Dialogue**
 
-
+<br/>
+<br/>
 
 ## The structure of the Dialogues📚
 ![DialogueFullStructureImage](https://i.imgur.com/Ni1QbZG.png)
@@ -53,6 +54,8 @@ The dialog string is **determined by the name of the initiator of the dialog**, 
   + 6.Play Dialogue if Selected - Plays the specified dialog when this answer is selected
   
 
+<br/>
+<br/>
 
 
 # Text Modifers⚙️
