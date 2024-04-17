@@ -94,9 +94,10 @@ The Two Sided Dialogue System has a large number of options for changing text. H
 
 <p>
 
-## You can add and change additional parameters in the "DialogueTextStyle" file
+#### You can add and change additional parameters in the "DialogueTextStyle" file
 
-# Events Logic
+# *Events Logic*
 You can add events by name using the "[Event]eventName" command. All events can be added to the AC_Subtitles System.
 In order to add a new event, you need to add a pin to the switch on string and write the name of your event, and then write the logic for it.
+![AddEventsImage](https://imgur.com/pvvmjdi)
 
